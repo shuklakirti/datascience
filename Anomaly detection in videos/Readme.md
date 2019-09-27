@@ -1,6 +1,6 @@
 # CSYE 7245 - Big Data Systems and Intelligent Analytics
 
-# Anomaly Detection in videos using Unsupervised Learning
+# Anomaly Detection in videos using Semi-supervised Learning
 
 ## Abstract
 For Anomaly detection in videos, Instead of treating it as supervised learning and Labeling the videos as Normal and abnormal, I have used another approach and did the anomaly detection by unsupervised learning.
